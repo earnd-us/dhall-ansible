@@ -27,7 +27,7 @@
 , Cloudformation =
     ./schemas/modules/cloudformation.dhall sha256:52c4bbb74eaeaf67100d5f50dc16dfb792533742eec7e57485815c2e56c9afb5
 , Copy =
-    ./schemas/modules/copy.dhall sha256:84ef8055b720404c67b602733571aa8ed6b10c609439f7635260ba81862e7c09
+    ./schemas/modules/copy.dhall sha256:97f277c0fe540a7448315ac3cc5927c5ba818cad5249ea507d6596cf036aab11
 , Cron =
     ./schemas/modules/cron.dhall sha256:021048a23a56dedfc5eb681754b72ea9a431395aab0dafcb7f646ba85d383f51
 , Debconf =
@@ -119,7 +119,7 @@
 , Pip =
     ./schemas/modules/pip.dhall sha256:51b3cc676edd303581ff5fdc876839c26454b9dbc16c1083af3e419cab4ea960
 , Play =
-    ./schemas/play.dhall sha256:6ca94f8f91ad7c331dd87f4ccd0580766aba3ccf614158ae610eff6803774a01
+    ./schemas/play.dhall sha256:b116c4ba169a196be17de0db8189b085ecef4156ff2b8ac3aa7e7f4b4450b1fe
 , RpmKey =
     ./schemas/modules/rpm_key.dhall sha256:dbba053f922e9bd0c8eed500c6dcf4cea6299f6b80a4123296ffffbd51129ef9
 , S3Bucket =
@@ -147,7 +147,7 @@
 , Systemd =
     ./schemas/modules/systemd.dhall sha256:0a4a9c4de96d1fe4dfaef759972fef703b9307998611f956ece460fbf6d6b561
 , Task =
-    ./schemas/task.dhall sha256:3590511072016e56cf1f61f851df6d63abf6b109b3a08674dc2ea6c48c5b14df
+    ./schemas/task.dhall sha256:40f2bc60fc73ad14ef4b85968ee0896d4cbb26c98bef21df2b21b0cb437a36c5
 , Template =
     ./schemas/modules/template.dhall sha256:d3b72f75497c95d35c5eff2a80cf84f8c11398f249d5bef10be2f72213aaa8a9
 , Unarchive =
